@@ -16,3 +16,5 @@ deploy release on target
 
 deploy release on target (Staging environment)
 2nd time
+
+deploy release on all the environments(Dev, Test and Staging)
