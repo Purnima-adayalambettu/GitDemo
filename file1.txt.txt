@@ -7,3 +7,5 @@ hello
 #undo changes after commit
 
 Creating a zip file for GitDemo
+
+Pushing the package to Octopus server
