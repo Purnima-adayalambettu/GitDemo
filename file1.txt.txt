@@ -9,3 +9,5 @@ hello
 Creating a zip file for GitDemo
 
 Pushing the package to Octopus server
+
+creating a release on server to deploy
