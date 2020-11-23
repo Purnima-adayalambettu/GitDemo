@@ -13,3 +13,5 @@ Pushing the package to Octopus server
 creating a release on server to deploy
 
 deploy release on target
+
+deploy release on target (Staging environment)
